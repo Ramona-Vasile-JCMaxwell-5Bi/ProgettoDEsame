@@ -19,3 +19,10 @@ Abstract:
 
 
 Make a website in html and with the database that will manage a mini electronic log.
+
+
+-------------------------------------------------------------------------------------------------------
+**Documentazione dettagliata**
+-html
+-database
+-foto tesina
